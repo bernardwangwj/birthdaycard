@@ -1,0 +1,129 @@
+.body {
+    background: linear-gradient(rgba(205, 180, 219, 1), rgba(255, 200, 221, 1),rgba(255, 175, 204, 1),rgba(189, 224, 254, 1),rgba(162, 210, 255, 1));
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    color:black;
+    height: 2550px;
+    width: 1275px;
+    
+}
+
+#title {
+text-shadow: 4px 4px 4px white;
+}
+
+#profilePhoto {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid white;
+}
+
+#age {
+    background-color: #f72585;
+    width: 150px;
+    height: 35px;
+    border-radius: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#date {
+    background-color: #f72585;
+    width: 110px;
+    height: 30px;
+    border-radius: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#subtitle {
+    margin-bottom: 1px;
+}
+
+#hoverOver {
+    margin-top: 5px;
+}
+
+.gif {
+    background-image: url("image/breakfast.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.giftbox {
+    background: url("images/giftbox.jpg");
+    background-size: contain;
+    width: 300px;
+    height: 300px;
+    border: 5px solid white;
+    border-radius: 10%;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.giftbox:hover {
+    background-image: url("images/happy.jpg");
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+#giftbox1:hover {
+    background-image: url("http://www.reactiongifs.com/r/2012/05/nervous.gif");
+    background-position: center;
+    margin: auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+#subtitle2 {
+    margin-bottom: 10px;
+}
+
+#giftbox2:hover {
+    background-image: url("images/awesome.jpeg");
+    background-position: center;
+    margin: auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+#giftbox3:hover {
+    background-image: url("images/miranda.gif");
+    background-position: center;
+    margin: auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+
+.giftbox1 {
+    background: url("images/giftbox.jpg");
+    background-size: contain;
+    width: 350px;
+    height: 250px;
+    border: 5px solid white;
+    border-radius: 10%;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.giftbox1:hover {
+    background: url("images/blowcandle.gif");
+    background-size:contain;
+    width: 350px;
+    height: 250px;
+    border: 5px solid white;
+    border-radius: 10%;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+#footer {
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 10px;
+}
